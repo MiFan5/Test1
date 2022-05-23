@@ -1,3 +1,3 @@
-File open.
-First file.
-Self check.
+File open
+First file
+Self check
